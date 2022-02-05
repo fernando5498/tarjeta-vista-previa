@@ -101,7 +101,7 @@ main {
   opacity: 0.9;
 }
 .card__img .img:after {
-  background: #701488;
+  background: #540e67;
   content: "";
   position: absolute;
   top: 0;
