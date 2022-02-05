@@ -1,5 +1,8 @@
 # Frontend Mentor - Stats preview card component
 
+link de mi solucion https://tarjetavistaprevia.netlify.app/
+link del desafio https://www.frontendmentor.io/solutions/vista-previa-de-trajeta-con-htmlcss-y-sass-PxDSW4PY0
+
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
