@@ -70,9 +70,10 @@ main {
   display: flex;
   justify-content: space-between;
 }
-.card__content ul h5 {
+.card__content ul span {
   font-size: 1.55rem;
-  margin-bottom: 0.5rem;
+  display: block;
+  margin-bottom: 0.6rem;
   font-weight: 700;
 }
 .card__content ul p {
